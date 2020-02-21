@@ -1,1 +1,0 @@
-/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/remote_control-test.dir/remote_control-test.cpp.o  -o remote_control-test ../libev3dev.a -lpthread 

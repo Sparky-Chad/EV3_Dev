@@ -1,1 +1,0 @@
-/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/button-test.dir/button-test.cpp.o  -o button-test ../libev3dev.a -lpthread 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/api_tests.dir/api_tests.cpp.o CMakeFiles/api_tests.dir/__/ev3dev.cpp.o  -o api_tests 

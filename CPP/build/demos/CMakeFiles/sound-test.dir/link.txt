@@ -1,1 +1,0 @@
-/usr/bin/c++  -O2 -g -DNDEBUG  -rdynamic CMakeFiles/sound-test.dir/sound-test.cpp.o  -o sound-test ../libev3dev.a -lpthread 

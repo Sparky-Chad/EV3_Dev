@@ -1,2 +1,0 @@
-/usr/bin/ar qc libev3dev.a  CMakeFiles/ev3dev.dir/ev3dev.cpp.o
-/usr/bin/ranlib libev3dev.a
